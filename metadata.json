@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Sederhana",
+  "description": "Aplikasi kalkulator sederhana dan modern dengan Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
